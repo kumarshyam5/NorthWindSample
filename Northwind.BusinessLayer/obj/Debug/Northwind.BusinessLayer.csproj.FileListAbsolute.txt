@@ -1,0 +1,14 @@
+C:\Users\shreyu\Documents\Visual Studio 2015\Projects\Northwind\Northwind.BusinessLayer\obj\Debug\Northwind.BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\shreyu\Documents\Visual Studio 2015\Projects\Northwind\Northwind.BusinessLayer\bin\Debug\Northwind.BusinessLayer.dll.config
+C:\Users\shreyu\Documents\Visual Studio 2015\Projects\Northwind\Northwind.BusinessLayer\bin\Debug\Northwind.BusinessLayer.dll
+C:\Users\shreyu\Documents\Visual Studio 2015\Projects\Northwind\Northwind.BusinessLayer\bin\Debug\Northwind.BusinessLayer.pdb
+C:\Users\shreyu\Documents\Visual Studio 2015\Projects\Northwind\Northwind.BusinessLayer\bin\Debug\AutoMapper.dll
+C:\Users\shreyu\Documents\Visual Studio 2015\Projects\Northwind\Northwind.BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\shreyu\Documents\Visual Studio 2015\Projects\Northwind\Northwind.BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\shreyu\Documents\Visual Studio 2015\Projects\Northwind\Northwind.BusinessLayer\bin\Debug\Northwind.BusinessEntities.dll
+C:\Users\shreyu\Documents\Visual Studio 2015\Projects\Northwind\Northwind.BusinessLayer\bin\Debug\Northwind.BusinessEntities.pdb
+C:\Users\shreyu\Documents\Visual Studio 2015\Projects\Northwind\Northwind.BusinessLayer\bin\Debug\AutoMapper.xml
+C:\Users\shreyu\Documents\Visual Studio 2015\Projects\Northwind\Northwind.BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\shreyu\Documents\Visual Studio 2015\Projects\Northwind\Northwind.BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\shreyu\Documents\Visual Studio 2015\Projects\Northwind\Northwind.BusinessLayer\obj\Debug\Northwind.BusinessLayer.dll
+C:\Users\shreyu\Documents\Visual Studio 2015\Projects\Northwind\Northwind.BusinessLayer\obj\Debug\Northwind.BusinessLayer.pdb

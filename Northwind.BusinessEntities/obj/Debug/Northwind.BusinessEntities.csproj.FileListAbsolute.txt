@@ -1,0 +1,10 @@
+C:\Users\shreyu\Documents\Visual Studio 2015\Projects\Northwind\Northwind.BusinessEntities\bin\Debug\Northwind.BusinessEntities.dll.config
+C:\Users\shreyu\Documents\Visual Studio 2015\Projects\Northwind\Northwind.BusinessEntities\bin\Debug\Northwind.BusinessEntities.dll
+C:\Users\shreyu\Documents\Visual Studio 2015\Projects\Northwind\Northwind.BusinessEntities\bin\Debug\Northwind.BusinessEntities.pdb
+C:\Users\shreyu\Documents\Visual Studio 2015\Projects\Northwind\Northwind.BusinessEntities\bin\Debug\EntityFramework.dll
+C:\Users\shreyu\Documents\Visual Studio 2015\Projects\Northwind\Northwind.BusinessEntities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\shreyu\Documents\Visual Studio 2015\Projects\Northwind\Northwind.BusinessEntities\bin\Debug\EntityFramework.xml
+C:\Users\shreyu\Documents\Visual Studio 2015\Projects\Northwind\Northwind.BusinessEntities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\shreyu\Documents\Visual Studio 2015\Projects\Northwind\Northwind.BusinessEntities\obj\Debug\Northwind.BusinessEntities.csprojResolveAssemblyReference.cache
+C:\Users\shreyu\Documents\Visual Studio 2015\Projects\Northwind\Northwind.BusinessEntities\obj\Debug\Northwind.BusinessEntities.dll
+C:\Users\shreyu\Documents\Visual Studio 2015\Projects\Northwind\Northwind.BusinessEntities\obj\Debug\Northwind.BusinessEntities.pdb

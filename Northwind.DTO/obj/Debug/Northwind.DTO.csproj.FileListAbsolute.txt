@@ -1,0 +1,4 @@
+C:\Users\shreyu\Documents\Visual Studio 2015\Projects\Northwind\Northwind.DTO\bin\Debug\Northwind.DTO.dll
+C:\Users\shreyu\Documents\Visual Studio 2015\Projects\Northwind\Northwind.DTO\bin\Debug\Northwind.DTO.pdb
+C:\Users\shreyu\Documents\Visual Studio 2015\Projects\Northwind\Northwind.DTO\obj\Debug\Northwind.DTO.dll
+C:\Users\shreyu\Documents\Visual Studio 2015\Projects\Northwind\Northwind.DTO\obj\Debug\Northwind.DTO.pdb
